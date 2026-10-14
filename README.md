@@ -4,6 +4,8 @@ Aprende virología molecular practicando: clasifica virus, ordena sus ciclos, ca
 
 **Usar la app:** https://fborrasumh.github.io/virologia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23361886.svg)](https://doi.org/10.5281/zenodo.23361886)
+
 **Idiomas:** español (por defecto), inglés y portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 ## Qué hace
@@ -52,7 +54,7 @@ ORCID: Luis Pérez García-Estañ [0000-0003-4078-8763](https://orcid.org/0000-0
 
 ## Cómo citar
 
-Pérez García-Estañ, L., Ortega-Villaizán, M. M. y Borrás Rocher, F. (2026). *VirologIA* (v1.0.0) [Software]. (DOI en trámite)
+Pérez García-Estañ, L., Ortega-Villaizán, M. M. y Borrás Rocher, F. (2026). *VirologIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23361886](https://doi.org/10.5281/zenodo.23361886)
 
 ## Licencia
 
